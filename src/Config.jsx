@@ -46,7 +46,7 @@ const Images = [
   {
     set: [
       {
-        necklace: { image: "set1neck", scaling: [10, 101, 10] },
+        necklace: { image: "set1neck.png", scaling: [10, 101, 10] },
         earrings: { image: "set1ear", scaling: [10, 101, 10] },
       },
       {
